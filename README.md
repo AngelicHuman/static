@@ -1,1 +1,1 @@
-#WordPress Page
+STATIC PAGE
